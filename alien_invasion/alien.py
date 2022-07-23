@@ -33,3 +33,4 @@ class Alien(Sprite):
         self.x += (self.settings.alien_speed *
                    self.settings.fleet_direction)
         self.rect.x = self.x
+print(eval(65+5))
